@@ -1,6 +1,6 @@
 # statcan
 
-This repository contains codes on tasks on establishing how size of the training instance is important to model evaluation. The investigation uses the Cars Dataset available [here](https://ai.stanford.edu/~jkrause/cars/car_dataset.html). The aim is to show to the client the need to label more data to allow for more accuracy in learning. 
+This repository contains codes on tasks on establishing how the size of the training set is important to model evaluation. The investigation uses the Cars Dataset available [here](https://ai.stanford.edu/~jkrause/cars/car_dataset.html). The aim is to show to the client the need to label more data to allow for better accuracy in learning. 
 
 The results of the investigation are contained in the attached `ipynb` notebook.
 
