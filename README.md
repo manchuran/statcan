@@ -37,7 +37,7 @@ You can move the files to a local computer using the command:
 #### Testing Code
 
 
-All cells have been run and the outputs are visible. However, should it be required to rerun the cells, the first cell which carries out `wget` must be run. Many of the data files are too large to upload on GitHub.
+All cells have been run and the outputs are visible. However, should it be required to rerun the cells, the first cell which carries out `wget` must be run. Though a few `.mat` files are available in this repository, the more larger image files have not been uploaded. These are too large to upload on GitHub.
 
 
 =======
